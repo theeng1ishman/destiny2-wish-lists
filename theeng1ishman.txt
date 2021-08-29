@@ -40,3 +40,9 @@ dimwishlist:item=1626503676&perks=445755706,1885400500,3436462433,2846385770#not
 
 ## Forge's Pledge
 dimwishlist:item=1076810832&perks=839105230,3142289711,1570042021,3425386926#notes:TheEng1ishman PvE/PvP. Range MW.
+
+## Wolftone Draw
+dimwishlist:item=3472875143&perks=3700496672,2848615171#notes:TheEng1ishman PvE
+dimwishlist:item=3472875143&perks=201365942,3673922083#notes:TheEng1ishman PvE
+dimwishlist:item=3472875143&perks=201365942,4104185692#notes:TheEng1ishman PvE
+dimwishlist:item=3472875143&perks=3700496672,4104185692#notes:TheEng1ishman PvE
