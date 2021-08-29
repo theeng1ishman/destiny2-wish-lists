@@ -37,3 +37,6 @@ dimwishlist:item=829330711&perks=1840239774,106909392,2450788523,124408337#notes
 dimwishlist:item=1626503676&perks=445755706,1885400500,3436462433,1015611457#notes:TheEng1ishman PvP. Range MW.
 dimwishlist:item=1626503676&perks=445755706,1885400500,4267945040,1015611457#notes:TheEng1ishman PvP. Range MW.
 dimwishlist:item=1626503676&perks=445755706,1885400500,3436462433,2846385770#notes:TheEng1ishman PvP. Range MW.
+
+## Forge's Pledge
+dimwishlist:item=1076810832&perks=839105230,3142289711,1570042021,3425386926#notes:TheEng1ishman PvE/PvP. Range MW.
