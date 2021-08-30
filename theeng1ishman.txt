@@ -46,3 +46,15 @@ dimwishlist:item=3472875143&perks=3700496672,2848615171#notes:TheEng1ishman PvE
 dimwishlist:item=3472875143&perks=201365942,3673922083#notes:TheEng1ishman PvE
 dimwishlist:item=3472875143&perks=201365942,4104185692#notes:TheEng1ishman PvE
 dimwishlist:item=3472875143&perks=3700496672,4104185692#notes:TheEng1ishman PvE
+
+## Iota Draconis
+
+//notes:TheEng1ishman PvE
+dimwishlist:item=3044460004&perks=2621346526,4104185692
+dimwishlist:item=3044460004&perks=2779035018,4104185692
+
+dimwishlist:item=3044460004&perks=689005463,2779035018,3673922083,3128594062#notes:TheEng1ishman PvE. Might be quite good depending on the Adagio damage buff.
+
+//notes:TheEng1ishman PvP
+dimwishlist:item=3044460004&perks=1645158859,2213355989
+dimwishlist:item=3044460004&perks=1645158859,1799762209
