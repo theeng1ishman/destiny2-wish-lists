@@ -24,6 +24,9 @@ dimwishlist:item=1622998472&perks=106909392,3700496672
 dimwishlist:item=1476654960&perks=1926090092,1087426260,1195158366,3673922083#notes:TheEng1ishman PvP. Range MW.
 dimwishlist:item=1476654960&perks=1926090093,106909392,3523296417,1954620775#notes:TheEng1ishman PvE. Stability MW.
 
+### Demo, Timed
+dimwishlist:item=1476654960&perks=3523296417,1954620775#notes:TheEng1ishman PvE. Stability MW.
+
 ## Servant Leader
 dimwishlist:item=1107446438&perks=1482024992,3142289711,3700496672,4104185692#notes:TheEng1ishman PvE. Range MW.
 dimwishlist:item=1107446438&perks=1482024992,3142289711,2946784966,1015611457#notes:TheEng1ishman PvP. Range MW.
